@@ -59,8 +59,9 @@ Parameters/
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/sentiment-analysis-project.git
-cd sentiment-analysis-project
+git clone https://github.com/Faizanras00l/Sentiment-analysis-project.git
+cd Sentiment-analysis-project
+
 ```
 
 ### 2. Install Dependencies
